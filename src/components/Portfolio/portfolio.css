@@ -1,0 +1,10 @@
+.href {
+    width: 20%;
+    height: 20%;
+}
+
+div.card.cardGrid {
+    float: left;
+    padding: 10px;
+    width: 33%;
+}

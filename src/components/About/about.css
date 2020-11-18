@@ -1,0 +1,10 @@
+div.about {
+    width: 100%;
+    display: inline-block;
+}
+
+#profilePic {
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
