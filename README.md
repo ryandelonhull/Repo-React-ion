@@ -6,13 +6,15 @@ Update portfilio with React.
 - 
 
 ## User Story
-- As a recruiter i take one look at this flaming specimen of awesomeness and i have no choice but to grant this man the keys to the castle. - Richard Branson 
+- As a recruiter i take one look at this Flaming Specimen of Awesomeness and i have no choice but to grant this man the keys to the castle. - Richard Branson 
 
+
+## Screenshot
 ![screen shot 1](./public/Images/repo-ScreenShot1.png)
 ![screen shot 2](./public/Images/repo-ScreenShot2.png)
 
-
-![Code Snippet](./public/repo-codesnippet.png)
+## Code Snippet
+![Code Snippet](./public/Images/repo-codesnippet.png)
 
 ## Author 
 
@@ -25,4 +27,4 @@ Update portfilio with React.
 
  ## *Acknowledgments*
 
- Big thank you to Jerome, Kerwin, Manuel and my tutor for wading into the deep waters of coding with the class and keeping me afloat with their instruction and guidance. Thank you to my fellow classmates for including me in the study and homework sessions as working together on a problem has been a great teacher also.
+ Big thank you to Jerome, Mahi, Manuel, Kerwin, and my tutor for wading into the deep waters of coding with the class and keeping me afloat with their instruction and guidance. Thank you to my fellow classmates for including me in the study and homework sessions as working together on a problem has been a great teacher also.
