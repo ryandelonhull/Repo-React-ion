@@ -18,7 +18,7 @@ function App() {
     <div className="background">
       <Header/> 
      <div>
-      <h2>Here's a little song i wrote...</h2>
+      <h2>Potent REPOtables</h2>
       {
         deployedLinks.map( (item, idx) => {
       
