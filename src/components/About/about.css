@@ -1,6 +1,9 @@
 div.about {
     width: 100%;
     display: inline-block;
+    color: rgb(203, 204, 166);
+    text-shadow: 1px 1px black;
+    background-color: transparent;
 }
 
 #profilePic {

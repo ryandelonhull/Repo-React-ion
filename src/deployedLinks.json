@@ -12,25 +12,36 @@
         "link": "https://oneupdb.herokuapp.com/"
     },{
         "id": 3,
-        "name": "Connected Politics",
-        "image": "Screenshot2.png",
-        "link": "https://ryandelonhull.github.io/connected-politics/"
+        "name": "A silly Quiz to Enjoy",
+        "image": "websiteInAction.png",
+        "link": "https://ryandelonhull.github.io/Code-Quiz/"
     },
     {
         "id": 4,
-        "name": "1UP VideoGame Database",
-        "image": "1upvgdb.png",
-        "link": "https://oneupdb.herokuapp.com/"
+        "name": "A Burger Collector",
+        "image": "Burger-in-use.png",
+        "link": "https://thawing-beyond-08187.herokuapp.com/"
     },{
         "id": 5,
-        "name": "Connected Politics",
-        "image": "Screenshot2.png",
-        "link": "https://ryandelonhull.github.io/connected-politics/"
+        "name": "A Clicky Memory Game of DEATH",
+        "image": "Screenshot1.png",
+        "link": "https://ryandelonhull.github.io/Clicky-Game-Go-Team-Venture/"
     },
     {
         "id": 6,
-        "name": "1UP VideoGame Database",
-        "image": "1upvgdb.png",
-        "link": "https://oneupdb.herokuapp.com/"
+        "name": "A Workour Tracker",
+        "image": "stats-workout.png",
+        "link": "https://workout-max-tracker.herokuapp.com/"
+    },{
+        "id": 7,
+        "name": "A React based Employee Directory",
+        "image": "employee-directory.png",
+        "link": "https://ryandelonhull.github.io/employee-directory/"
+    },
+    {
+        "id": 8,
+        "name": "My Full Repository",
+        "image": "github.png",
+        "link": "https://github.com/ryandelonhull"
     }
 ]

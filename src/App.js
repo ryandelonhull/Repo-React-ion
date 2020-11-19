@@ -15,9 +15,10 @@ function App() {
   }, [])
   
   return (
-    <div>
-      <Header/>
-      <div>
+    <div className="background">
+      <Header/> 
+     <div>
+      <h2>Here's a little song i wrote...</h2>
       {
         deployedLinks.map( (item, idx) => {
       
