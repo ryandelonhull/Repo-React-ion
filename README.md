@@ -5,8 +5,8 @@ Update portfilio with React.
 ## Deployed Link
 - 
 
-## Deployed Link
-- As a recruiter i take one look at this flaming piece of awesomeness and i have no choice but to give this man 
+## User Story
+- As a recruiter i take one look at this flaming specimen of awesomeness and i have no choice but to grant this man the keys to the castle. - Richard Branson 
 
 ![screen shot 1](./public/Images/repo-ScreenShot1.png)
 ![screen shot 2](./public/Images/repo-ScreenShot2.png)
