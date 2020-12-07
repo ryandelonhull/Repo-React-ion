@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import React from "react";
 
 import "./portfolio.css";
 
@@ -11,7 +12,7 @@ function Portfolio(props) {
                 <h4>{props.name}</h4>
                 <nav>
                     <a href={props.link} target="_blank">
-                        <img alt={props.name} src={window.location.origin + `/Images/${props.image}`} className="href"/>
+                        <img src={props.image} alt={props.name} id={props.id} className="href"/>
                     </a>
                 </nav>
             </div>  

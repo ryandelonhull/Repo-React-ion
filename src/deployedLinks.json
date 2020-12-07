@@ -1,47 +1,48 @@
+
 [
     {
         "id": 1,
         "name": "Connected Politics",
-        "image": "Screenshot2.png",
+        "image": "https://i.ibb.co/GQNLVnk/Screenshot2.png",
         "link": "https://ryandelonhull.github.io/connected-politics/"
     },
     {
         "id": 2,
         "name": "1UP VideoGame Database",
-        "image": "1upvgdb.png",
+        "image": "https://i.ibb.co/M1FcZ8z/1upvgdb.png",
         "link": "https://oneupdb.herokuapp.com/"
     },{
         "id": 3,
         "name": "A silly Quiz to Enjoy",
-        "image": "websiteInAction.png",
+        "image": "https://i.ibb.co/BgmjPvk/website-In-Action.png",
         "link": "https://ryandelonhull.github.io/Code-Quiz/"
     },
     {
         "id": 4,
         "name": "A Burger Collector",
-        "image": "Burger-in-use.png",
+        "image": "https://i.ibb.co/KynMJzB/Burger-in-use.png",
         "link": "https://thawing-beyond-08187.herokuapp.com/"
     },{
         "id": 5,
         "name": "A Clicky Memory Game of DEATH",
-        "image": "Screenshot1.png",
+        "image": "https://i.ibb.co/6P6JC7b/Screen-Shot1.png",
         "link": "https://ryandelonhull.github.io/Clicky-Game-Go-Team-Venture/"
     },
     {
         "id": 6,
-        "name": "A Workour Tracker",
-        "image": "stats-workout.png",
+        "name": "A Workout Tracker",
+        "image": "https://i.ibb.co/8sCsZh6/stats-workout.png",
         "link": "https://workout-max-tracker.herokuapp.com/"
     },{
         "id": 7,
-        "name": "A React based Employee Directory",
-        "image": "employee-directory.png",
+        "name": "A React Based Employee Directory",
+        "image": "https://i.ibb.co/Z1rP2x8/employee-directory.png",
         "link": "https://ryandelonhull.github.io/employee-directory/"
     },
     {
         "id": 8,
         "name": "My Full Repository",
-        "image": "github.png",
+        "image": "https://i.ibb.co/2NgpntJ/github.png",
         "link": "https://github.com/ryandelonhull"
     }
 ]
