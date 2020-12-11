@@ -10,8 +10,8 @@ Update portfilio with the immaculate capabilities of React. You're welcome world
 
 
 ## Screenshot
-![screen shot 1](./public/images/repo-ScreenShot1.png)
-![screen shot 2](./public/images/repo-ScreenShot2.png)
+![screen shot 1](./public/images/repo-screenShot1.png)
+![screen shot 2](./public/images/repo-screenShot2.png)
 
 ## Code Snippet
 ![Code Snippet](./public/images/repo-codesnippet.png)
