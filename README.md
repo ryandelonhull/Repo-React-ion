@@ -1,6 +1,6 @@
 # Repo-React-ion
 
-Update portfilio with React.
+Update portfilio with the immaculate capabilities of React. You're welcome world.
 
 ## Deployed Link
 - https://ryandelonhull.github.io/Repo-React-ion/
@@ -10,21 +10,21 @@ Update portfilio with React.
 
 
 ## Screenshot
-![screen shot 1](./public/Images/repo-ScreenShot1.png)
-![screen shot 2](./public/Images/repo-ScreenShot2.png)
+![screen shot 1](./public/images/repo-ScreenShot1.png)
+![screen shot 2](./public/images/repo-ScreenShot2.png)
 
 ## Code Snippet
-![Code Snippet](./public/Images/repo-codesnippet.png)
+![Code Snippet](./public/images/repo-codesnippet.png)
 
 ## Author 
 
 ### Ry Hull
  - https://github.com/ryandelonhull
  - https://linkedin.com/in/ryan-hull-94003144
- - https://ryandelonhull.github.io/Bootstrap-Portfolio/
+ - https://ryandelonhull.github.io/Repo-React-ion/
 
 
 
  ## *Acknowledgments*
 
- Big thank you to Jerome, Mahi, Manuel, Kerwin, and my tutor for wading into the deep waters of coding with the class and keeping me afloat with their instruction and guidance. Thank you to my fellow classmates for including me in the study and homework sessions as working together on a problem has been a great teacher also.
+ Big thank you to Jerome, Mahi, Manuel, Kerwin, Roger, and my tutor for wading into the deep waters of coding with the class and keeping me afloat with their instruction and guidance. Thank you to my fellow classmates for including me in the study and homework sessions as working together on a problem has been a great teacher also.
